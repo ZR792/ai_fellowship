@@ -1,6 +1,6 @@
 # Text Analysis Tool  
 
-## Overview  
+## Overview:  
 This project is a **Text Analysis Tool** designed to make working with text easier and more insightful.  
 It provides features like:  
 - **Text Summarization** – Generate concise summaries for long texts.  
@@ -12,7 +12,7 @@ For detailed implementation and usage, please refer to the **[project documentat
 
 ---
 
-## Problem It Solves  
+## Problem It Solves:  
 When dealing with large or complex texts, it's difficult to quickly understand their meaning, tone, and readability.  
 This tool helps:  
 - Summarize long articles or documents.  
@@ -21,7 +21,7 @@ This tool helps:
 
 ---
 
-## What I Learned  
+## What I Learned:  
 During this project, I gained hands-on experience with:  
 - **API usage** (handling API calls safely).  
 - **Transformers & Tokenizers** for modern NLP.  
@@ -40,8 +40,13 @@ There’s a lot of potential to make this project more powerful:
 
 ---
 
-## How to Run  
+## How to Run:  
 1. Clone the repository.  
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+3. Run the main file:
+    ```bash
+   streamlit run main.py
+
+   
