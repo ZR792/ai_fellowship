@@ -3,5 +3,4 @@ python-dotenv
 transformers
 nltk
 streamlit
-pytest
-torch
+
