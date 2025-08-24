@@ -33,3 +33,42 @@ Each week's folder generally includes:
 1. Clone this repository:
    ```bash
    git clone https://github.com/ZR792/ai_fellowship.git
+
+   Navigate to the specific week/task folder:
+
+cd WEEK_1_TASK
+
+
+2. Install dependencies (if requirements.txt exists):
+
+pip install -r requirements.txt
+
+
+3. Run the code:
+
+python <filename>.py
+
+4. Technologies Used:
+
+* Python (for most tasks)
+
+* APIs and LLMs (as required)
+
+* Git & GitHub for version control
+
+## Notes:
+
+Each week's folder is self-contained.
+
+Documentation is included to explain functionality and usage.
+
+Tasks reflect the learning and implementation of AI, LLM basics, and related tools as part of the Fellowship.
+
+## Future Work:
+
+Add projects for all upcoming weeks.
+
+Enhance documentation with examples and screenshots where applicable.
+
+**Author:** *Zainab Ramzan*
+**Program:** *Buildables AI Fellowship 2025*
