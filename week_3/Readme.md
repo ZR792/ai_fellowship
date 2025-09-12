@@ -15,6 +15,7 @@ The goal was to compare how each approach affects model reasoning when solving t
 ---
 
 ## 📂 Project Structure
+``` 
 Week_03_AI_Fellowship/
 │── README.md ← This file
 │── week_03_report.md ← Final detailed report with prompts, outputs, and evaluation
@@ -29,7 +30,7 @@ Week_03_AI_Fellowship/
 ├── math_outputs.md
 ├── logic_outputs.md
 ├── reasoning_outputs.md
-
+``` 
 
 ---
 
