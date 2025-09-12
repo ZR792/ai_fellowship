@@ -46,6 +46,7 @@ Users can interact with any agent, maintain conversation history, and even downl
 
 
 ## 📂 Project Structure
+```
 week_2/
 │── Chatbot.py          # Agents & tools logic
 │── main.py             # Streamlit UI
@@ -63,7 +64,7 @@ week_2/
     │    └── tool_base.cpython-313.pyc
     ├── quotes.py
     └── tool_base.py
-
+```
 
 ---
 
