@@ -1,2 +1,5 @@
 # Ignore PDFs
 *.pdf
+__pycache__/
+*.pyc
+indexes/
