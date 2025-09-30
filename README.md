@@ -40,14 +40,14 @@ cd WEEK_1_TASK
 
 
 2. Install dependencies (if requirements.txt exists):
-
+``
 pip install -r requirements.txt
+``
 
-
-3. Run the code:
-
-python <filename>.py
-
+3. Run the Main file:
+``
+Streamlit run <filename>.py
+``
 4. Technologies Used:
 
 * Python (for most tasks)
