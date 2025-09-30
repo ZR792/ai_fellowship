@@ -107,14 +107,14 @@ WEEK_05/
 
 2. Create virtual environment
 ``
-- python -m venv your-virtual-environment-name
+python -m venv your-virtual-environment-name
 ``
 
  3. Install dependencies
  ``
- - pip install -r requirements.txt
+pip install -r requirements.txt
  ``
  4. Run Main file
  ``
- - Streamlit run src/app.py
+Streamlit run src/app.py
  ``
