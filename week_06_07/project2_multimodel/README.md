@@ -54,7 +54,7 @@ This is useful for professionals, students, or researchers who deal with mixed d
 ---
 
 ## 📂 Folder Structure
-``
+````
 project2_multimodel/
 ├── gemini_utils.py                 # Handles Gemini / local model logic
 ├── multimodal_app.py               # Main script to run analysis
@@ -67,7 +67,7 @@ project2_multimodel/
 │ └── example_outputs.md            # Generated results (captions, OCR text, summaries)
 ├── requirements.txt
 └── README.md
-``
+````
 
 ---
 
