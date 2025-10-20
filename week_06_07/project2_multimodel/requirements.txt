@@ -1,0 +1,11 @@
+google-genai>=0.2.0   
+transformers>=4.30.0
+torch                
+sentence-transformers
+faiss-cpu
+pytesseract
+pillow
+pdfplumber
+opencv-python-headless
+numpy
+matplotlib

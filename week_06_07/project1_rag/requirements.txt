@@ -1,0 +1,9 @@
+faiss-cpu
+pdfplumber
+PyPDF2
+numpy
+pandas
+sentence-transformers
+transformers
+accelerate
+torch

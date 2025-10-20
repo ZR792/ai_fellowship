@@ -1,0 +1,7 @@
+*__pycache__
+.env
+*.pdf
+*chunks.json
+*chunks_split.json
+*index
+*embeddings.npy
