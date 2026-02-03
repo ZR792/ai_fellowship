@@ -68,7 +68,7 @@ Tasks reflect the learning and implementation of AI, LLM basics, and related too
 
 This project was completed as my final project for the AI Fellowship. It represents the knowledge and skills I developed throughout the program, applying AI concepts to build a practical solution.
 
-👉 Check out the final project here: (AI Research Assistant)[https://github.com/ZR792/AI-Research-Assistant]
+👉 Check out the final project here: [AI Research Assistant](https://github.com/ZR792/AI-Research-Assistant)
 
 **Author:** *Zainab Ramzan*
 **Program:** *Buildables AI Fellowship 2025*
