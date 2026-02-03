@@ -64,11 +64,11 @@ Documentation is included to explain functionality and usage.
 
 Tasks reflect the learning and implementation of AI, LLM basics, and related tools as part of the Fellowship.
 
-## Future Work:
+## Final Project:
 
-Add projects for all upcoming weeks.
+This project was completed as my final project for the AI Fellowship. It represents the knowledge and skills I developed throughout the program, applying AI concepts to build a practical solution.
 
-Enhance documentation with examples and screenshots where applicable.
+👉 Check out the final project here: (AI Research Assistant)[https://github.com/ZR792/AI-Research-Assistant]
 
 **Author:** *Zainab Ramzan*
 **Program:** *Buildables AI Fellowship 2025*
